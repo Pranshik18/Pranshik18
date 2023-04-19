@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Pranshik Sharma
-- 👀 I’m interested in App Development
-- 🌱 I’m currently learning Android App dev. using kotlin
-- 💞️ I’m looking to collaborate on android development projects
+- 👀 I’m interested in App and Web Development
+- 🌱 I’m currently working on Web dev. React JS projects
+- 💞️ I’m looking to collaborate on web development projects
 - 📫 reach me at pranshiksharm3453@gmail.com
 
 <!---
