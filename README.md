@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Pranshik Sharma
 - 👀 I’m interested in App and Web Development
-- 🌱 I’m currently working on App dev. React-Native projects
-- 💞️ I’m looking to collaborate on web and App development projects
+- 🌱 I’m currently working on App dev. React-Native and CI/CD projects
+- 💞️ I’m looking to collaborate on CI/CD and App development projects
 - 📫 reach me at hey@pranshik.com
 
 <!---
